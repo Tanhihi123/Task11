@@ -1,0 +1,3 @@
+- Randomness Attack là một 
+- Chainlink VRF
+- API3 

@@ -1,0 +1,1 @@
+- Mining là một quá trình

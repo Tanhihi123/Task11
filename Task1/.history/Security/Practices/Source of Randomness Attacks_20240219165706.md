@@ -1,0 +1,3 @@
+- Randomness Attack là một cuộc tấn công phổ biến trong 
+- Chainlink VRF
+- API3 

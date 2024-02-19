@@ -1,0 +1,3 @@
+- Randomness Attack là một cuộc tấn công phổ biến trong các dự án / smart contract cần dùng số n
+- Chainlink VRF
+- API3 
